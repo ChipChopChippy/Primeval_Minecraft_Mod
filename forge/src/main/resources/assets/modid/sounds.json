@@ -1,0 +1,47 @@
+{
+    "mob.moa.say":
+    {
+        "category": "neutral",
+        "sounds":
+        [
+            "moa/moa_idle1",
+            "moa/moa_idle2"
+        ]
+    },
+    "mob.moa.death":
+    {
+        "category": "neutral",
+        "sounds":
+        [
+            "moa/moa_death"
+        ]
+    },
+    "mob.moa.hurt":
+    {
+        "category": "neutral",
+        "sounds":
+        [
+            "moa/moa_hurt1",
+            "moa/moa_hurt2"
+        ]
+    },
+    "mob.deinonychus.say":
+    {
+        "category": "neutral",
+        "sounds":
+        [
+            "deinonychus/deinonychus_idle1",
+            "deinonychus/deinonychus_idle2"
+        ]
+    },
+    "mob.futurepredator.say":
+    {
+        "category": "neutral",
+        "sounds":
+        [
+            "futurepredator/predator_idle1",
+            "futurepredator/predator_idle2",
+            "futurepredator/predator_attack1"
+        ]
+    }
+}

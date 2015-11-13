@@ -1,0 +1,16 @@
+[
+{
+  "modid": "modid",
+  "name": "Dan's Mod",
+  "description": "Dan's First Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": "Dan Folkes",
+  "credits": "My Dad",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["mod_MinecraftForge"]
+}
+]
